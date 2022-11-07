@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12372904825",
+    "project_id": "mightydelivery-10da9",
+    "storage_bucket": "mightydelivery-10da9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12372904825:android:855f0fd5c9191baa22fda8",
+        "android_client_info": {
+          "package_name": "com.mighty.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12372904825-5nbjdfe0d33v71fv537hbsh0ogfgtj0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD63jDs8zx_kV-bfwddX6th3bH1CMj-gEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12372904825-5nbjdfe0d33v71fv537hbsh0ogfgtj0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
